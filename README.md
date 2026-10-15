@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hiya I'm Matthew, a 17 year old who loves programming
+👋Hiya I'm Matthew, a 18 year old who loves programming
 
 🔭 I’m currently working on my personal project, Starcord. A fully open-source chat application built for the public’s needs. No paywalls, unlimited file uploads, no annoying ads, and complete transparency. What began as a fun project has quickly grown, with many users already eager to use the platform.
 
